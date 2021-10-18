@@ -1,7 +1,4 @@
 // Emmanuel Isidahomen
-//3/8/2018
-// CSDP 222
-// UMES
 // Double Dutch Treat
 
 
